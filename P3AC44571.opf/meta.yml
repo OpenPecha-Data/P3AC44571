@@ -1,0 +1,22 @@
+id: P3AC44571
+initial_creation_type: input
+source_metadata:
+  title: Recitation Manuals
+  language: bo
+  description: 'A series of recitation manuals (bsnyen yig), instructional guides
+    to practising sādhanas in retreat:'
+  volume:
+    d5d9c6ff6b904a5a90c3170c76e80c4f:
+      title: 'Elucidating the Body Maṇḍala: Clarifications on the Recitation Manual
+        of the Female Practice of the Queen of Great Bliss'
+      parent: Longchen Nyingtik
+    b133c925a3114c078bc3690eeb907431:
+      title: Main Recitation Manual for the Female Practice of the Queen of Great
+        Bliss
+      parent: Longchen Nyingtik
+    21798eb5edef4d69a7ac33218c561529:
+      title: 'The Casket of Siddhis: A Recitation Manual for “Vidyādhara Assembly”
+        (Rigdzin Düpa)'
+      parent: Longchen Nyingtik
+created_at: '2022-03-01T05:24:35.172181'
+last_modified_at: '2022-03-01T05:24:35.172184'
